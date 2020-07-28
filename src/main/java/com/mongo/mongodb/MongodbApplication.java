@@ -22,8 +22,8 @@ public class MongodbApplication implements CommandLineRunner {
 
 		Customer c1 = new Customer("1","Kate","Hudson");
 		Customer c2 = new Customer("2","Mary","Poppins");
-		Customer c3 = new Customer("3","Jennifer","Aniston");
-		Customer c4 = new Customer("3","Jennifer","Gardner");
+		Customer c3 = new Customer("3","Jennifer","Alison");
+		Customer c4 = new Customer("4","Jennifer","Gardner");
 
 		ArrayList<Customer> customerArrayList = new ArrayList<Customer>();
 
